@@ -1,5 +1,8 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hackergeek&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&include_all_commits=true" />
-
+<p align="center">
+  <a href="https://github.com/Hackergeek">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hackergeek&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  </a>
+</p>
 <!--
 **Hackergeek/Hackergeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
