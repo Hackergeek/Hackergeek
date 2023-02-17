@@ -1,8 +1,13 @@
-<p align="center">
-  <a href="https://github.com/Hackergeek">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hackergeek&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
-  </a>
-</p>
+
+<!-- ### Github stats -->
+
+<a href="https://github.com/Hackergeek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7hens&count_private=true&show_icons=true&include_all_commits=true&line_height=24px&hide_rank=true" />
+</a>
+<a href="https://github.com/Hackergeek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergeek&count_private=true&layout=compact&langs_count=8" />
+</a>
+<!-- ### Languages and Tools -->
 <!--
 **Hackergeek/Hackergeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
